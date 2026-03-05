@@ -1,5 +1,5 @@
 # VFMCrack
-Adapting the vision foundation model for robust crack segmentation
+A Hybrid Vision Foundation Model with Context-Adaptive Decoding for Robust Crack Segmentation
 
 Welcome to the official repository for VFMCrack, an efficient and robust approach that adapts the vision foundation framework to address the inherent challenges of pixel-level crack detection. This repository will soon include the source code and checkpoints, enabling researchers and practitioners to replicate and build upon our work.
 
